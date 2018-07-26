@@ -15,10 +15,12 @@ def location
   @place 
 end 
  
-end
+def detention.new
+  @detention.new = detention.new 
 end 
 
-detention.new = initialize(what, place)
+end
+end 
 
 @what = detention.new(detention)
 @place = detention.new(location)
