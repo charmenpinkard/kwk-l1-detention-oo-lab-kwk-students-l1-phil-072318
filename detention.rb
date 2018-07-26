@@ -18,7 +18,7 @@ end
 end
 end 
 
-detention.new = initialize(@what, @place)
+detention.new = initialize(what, place)
 
 @what = detention.new(detention)
 @place = detention.new(location)
