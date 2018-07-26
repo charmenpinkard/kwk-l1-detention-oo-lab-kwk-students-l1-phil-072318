@@ -13,3 +13,4 @@ end
 
 location = Detention.new("Room 301")
   
+end
