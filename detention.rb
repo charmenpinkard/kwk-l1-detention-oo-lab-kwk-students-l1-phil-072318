@@ -3,5 +3,5 @@
    @detention = detention 
   end 
   
-  detention = Detention.new(detention)
+  detention = detention.new(detention)
   
