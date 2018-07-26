@@ -17,3 +17,6 @@ end
  
 end
 end 
+
+@what = detention.new(detention)
+@place = detention.new(location)
