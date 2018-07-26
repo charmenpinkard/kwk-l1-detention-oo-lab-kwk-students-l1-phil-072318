@@ -14,7 +14,5 @@ def location
   @place 
   puts "#{@what} is in room 301" 
 end 
-
-location = detention("Room 301")
-  
-end
+ 
+ end 
