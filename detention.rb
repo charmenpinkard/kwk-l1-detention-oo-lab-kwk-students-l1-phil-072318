@@ -15,4 +15,4 @@ def location
   puts "#{@what} is in room 301" 
 end 
  
- end 
+end
