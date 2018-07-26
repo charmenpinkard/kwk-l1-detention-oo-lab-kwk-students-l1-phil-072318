@@ -2,13 +2,17 @@
 
  class Detention 
    
+def initialize(what, place)
+  @what = detention 
+  @place = location 
+
 def detention 
-  @detention = detention 
+  @what 
 end 
 
 def location 
-  @location = location 
-  puts "Dentention is in Room 301"
+  @place 
+  puts "#{@what} is in room 301" 
 end 
 
 location = detention("Room 301")
