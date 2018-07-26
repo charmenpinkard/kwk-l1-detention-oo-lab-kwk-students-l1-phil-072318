@@ -11,6 +11,5 @@ def location
   puts "Dentention is in Room 301"
 end 
 
-location = detention.new("Room 301")
+location = Detention.new("Room 301")
   
-end 
