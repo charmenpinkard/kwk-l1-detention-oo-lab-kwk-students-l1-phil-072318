@@ -16,7 +16,7 @@ def location
 end 
  
 def detention.new
-  @detention.new = detention.new 
+  @detention.new = intialize 
 end 
 
 end
