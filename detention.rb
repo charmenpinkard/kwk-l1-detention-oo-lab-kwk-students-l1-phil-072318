@@ -15,9 +15,9 @@ def location
   @place 
 end 
  
-def detention.new
-  @detention.new = intialize 
-end 
+# def detention.new
+#   @detention.new = intialize 
+# end 
 
 end
 end 
