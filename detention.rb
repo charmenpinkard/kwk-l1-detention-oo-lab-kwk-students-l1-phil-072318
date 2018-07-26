@@ -8,11 +8,11 @@ def initialize(what, place)
 
 def detention 
   @what 
+  puts "#{@what} is in room 301"
 end 
 
 def location 
   @place 
-  puts "#{@what} is in room 301" 
 end 
  
 end
